@@ -8,7 +8,7 @@ Project is created with:
 * Add new tasks
 * Edit tasks
 * Mark them complete/Incomplete and reflect it on the completed and remaining tasks
-* Know the date ans time of task added
-* Delete asn individual Task or delete all the tasks
+* Know the date and time of task added
+* Delete any individual Task or delete all the tasks
 ## Live Demo
 [TO-DO APP](https://to-do-madhu0-2.netlify.app/)
